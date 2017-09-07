@@ -5,7 +5,7 @@
     <!--       项目           -->
     <!-- ==================== -->
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.company.project.demoweb</groupId>
+    <groupId>com.company.project</groupId>
     <artifactId>demo-admin</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
